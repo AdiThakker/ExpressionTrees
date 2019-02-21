@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mapper\MappingExtensions.cs" />
     <Compile Include="Serialization\Entities.cs" />
     <Compile Include="Serialization\ExpressionUtility.cs" />
     <Compile Include="Serialization\Serializer.cs" />
